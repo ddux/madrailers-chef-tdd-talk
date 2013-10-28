@@ -1,0 +1,1 @@
+default[:foo][:path] = "/usr/local"

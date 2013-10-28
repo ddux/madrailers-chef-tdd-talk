@@ -1,8 +1,8 @@
 name             'madrailers'
-maintainer       'Nextpoint'
-maintainer_email 'thelab@nextpoint.com'
+maintainer       'Dakota Dux'
+maintainer_email 'dakota.dux@nextpoint.com'
 license          'All rights reserved'
-description      'Installs the resources needed to run the madrailers website'
+description      'Example cookbook for talk on TDD with Chef'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.0.1'
 
